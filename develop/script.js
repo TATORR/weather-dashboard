@@ -1,27 +1,3 @@
-// what are we going to need?
-// jQuery
-// moment.js
-// Ajax
-// Weather api
-
-// ----Variables------
-// userSearch | grab the users search
-// main5D (current)|
-// 5day5D |
-// search boxes (ul)
-// save the current day | moment()
-
-// ----Functions-----
-// function 1 - grab the value of the search (be in event listener)
-// function 2 - get the current 5D (Main) -- date, icon, temp, humid,
-// function 3 - display the info from function 2
-// function 4 - get the 5d 5D for current city - (uv index for 2) date, icon, temp, humidity,
-// function 5 - display the info from function 4
-// function 6 - save search history
-
-// ----what event listeners do we need? -----
-// on click for the search button
-// on click on the previous search
 
 $(document).ready(function () {
     // vars
