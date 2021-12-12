@@ -4,7 +4,7 @@
 // Ajax
 // Weather api
 
-// ----Variables-----
+// ----Variables------
 // userSearch | grab the users search
 // main5D (current)|
 // 5day5D |
